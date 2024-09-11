@@ -1,0 +1,24 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environment files
+.venv/
+
+# Ignore Django migration files
+**/migrations/**
+
+# Ignore Django pycache files
+**/__pycache__/**
+
+# Ignore Django media files
+media/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore Django local settings files
+local_settings.py
