@@ -13,6 +13,10 @@ django-filter = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
 pillow = "*"
+redis = "*"
+django-cors-headers = "*"
+celery = "*"
+flower = "*"
 
 [dev-packages]
 autopep8 = "*"
