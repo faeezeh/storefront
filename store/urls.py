@@ -14,6 +14,7 @@ products_router = routers.NestedSimpleRouter(
     router, 'products', lookup='product')
 products_router.register('reviews', views.ReviewViewSet,
                          basename='product-reviews')
+products_router.register('images',views.ProductImageViewSet, basename= 'prouct_images')
 
 carts_router = routers.NestedSimpleRouter(router, 'carts', lookup='cart')
 carts_router.register('items', views.CartItemViewSet, basename='cart-items')
