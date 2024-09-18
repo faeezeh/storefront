@@ -174,3 +174,13 @@ SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
     'ACCESS_TOKEN_LIFETIME': timedelta(days=1)
 }
+
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = 'localhost'
+EMAIL_PORT = 2525
+DEFULT_FROM_EMAIL = 'sfaezehsdgh@gmail.com'
+
+ADMINS = [
+    ('Faezeh','sfaezehsdgh@gmail.com')
+]
+
