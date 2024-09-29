@@ -1,0 +1,9 @@
+2024-09-29 15:04:22,078 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 15:05:33,173 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/playground/views.py changed, reloading.
+2024-09-29 15:05:42,505 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 15:08:30,210 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/storefront/settings.py changed, reloading.
+2024-09-29 15:08:39,591 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 15:09:10,756 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/storefront/settings.py changed, reloading.
+2024-09-29 15:09:20,598 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 15:09:55,810 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/storefront/settings.py changed, reloading.
+2024-09-29 15:10:05,364 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader

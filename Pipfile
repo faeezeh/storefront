@@ -18,6 +18,7 @@ django-cors-headers = "*"
 celery = "*"
 flower = "*"
 django-redis = "*"
+whitenoise = "*"
 
 [dev-packages]
 autopep8 = "*"
