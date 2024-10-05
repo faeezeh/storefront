@@ -7,3 +7,14 @@
 2024-09-29 15:09:20,598 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
 2024-09-29 15:09:55,810 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/storefront/settings.py changed, reloading.
 2024-09-29 15:10:05,364 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 16:14:16,593 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/manage.py changed, reloading.
+2024-09-29 16:25:22,596 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 16:25:25,462 (WARNING)-silk.profiling.profiler-Cannot execute silk_profile as silk is not installed correctly.
+2024-09-29 16:29:22,344 (WARNING)-django.request-Unauthorized: /store/collections/
+2024-09-29 16:29:22,535 (WARNING)-django.request-Forbidden: /store/collections/
+2024-09-29 16:29:22,549 (WARNING)-django.request-Forbidden: /store/collections/
+2024-09-29 16:29:32,836 (WARNING)-django.request-Forbidden: /store/collections/
+2024-09-29 16:32:12,184 (INFO)-django.utils.autoreload-/mnt/c/Users/sfaez/Django Projects/storefront3/storefront/settings/common.py changed, reloading.
+2024-09-29 16:32:23,905 (INFO)-django.utils.autoreload-Watching for file changes with StatReloader
+2024-09-29 16:32:26,870 (WARNING)-silk.profiling.profiler-Cannot execute silk_profile as silk is not installed correctly.
+2024-09-29 18:19:36,234 (WARNING)-silk.profiling.profiler-Cannot execute silk_profile as silk is not installed correctly.
